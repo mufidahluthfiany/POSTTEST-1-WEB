@@ -1,5 +1,7 @@
 Nama : Mufidah Luthfiany 
+
 NIM : 2109116052
+
 Kelas : Sistem Informasi B 2021
 
 Tema dari website yang saya buat adalah Snack and beverage yang merupakan website jualan berbagai macam snack 
